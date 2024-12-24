@@ -23,7 +23,7 @@ The primary goals of this project are:
 
 ## **Technologies Used**
 - **Python**: Core language for development.
-- **Machine Learning**: Libraries like Scikit-learn, XGBoost, and TensorFlow.
+- **Machine Learning**: Libraries like Scikit-learn, XGBoost, and TensorFlow/Pytorch.
 - **Web Interface**: Flask or Streamlit for the front end.
 - **Containerization**: Docker for deployment.
 - **Visualization**: Matplotlib and Seaborn for EDA.
@@ -39,4 +39,4 @@ The primary goals of this project are:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/asteroid-ml-project.git
+   git clone https://github.com/RiyadspX/asteroid-ml-project.git
